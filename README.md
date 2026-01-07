@@ -1,1 +1,0 @@
-# Election-Outcome-Prediction
